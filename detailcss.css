@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/black-frame-with-copy-space-top-view_23-2148643791.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.parent {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+
+   .d1 {
+    text-align: justify;
+    margin-left: 25%;
+    margin-top: 100px;
+  }
+   
+   .rf {
+     max-width: 120%;
+     max-height:85%;
+     margin-left: 52%;
+     margin-top: 22%;
+   }
+.b2{
+    margin-left: 40px;
+}
+.b3{
+    margin-left: 40px;
+}
+.b4{
+    margin-left: 40px;
+}
+.d3{
+    margin-top: 45px;
+}
+  
